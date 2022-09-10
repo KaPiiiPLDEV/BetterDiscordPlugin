@@ -16,7 +16,7 @@
     BdApi.alert("Hello! This is my first better discord plugin. its hard to make this");
     blur.prototype;
     
-    if(this != this.updateUrl) {
+    if(this != this.source) {
         BdApi.alert("Update availible", "https://github.com/KaPiiiPLDEV/BetterDiscordPlugin/blob/main/myfirstplugin.plugin.js")
         
     }
