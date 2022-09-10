@@ -1,6 +1,6 @@
 /**
  * @name first plugin
- * @version 1.1.2
+ * @version 1.0.0
  * @description My first plugin
  * @author KaPii
  * 
@@ -17,7 +17,8 @@
     blur.prototype;
     
     if(this != this.updateUrl) {
-        BdApi.alert("pls update ")
+        BdApi.alert("Update availible", "https://github.com/KaPiiiPLDEV/BetterDiscordPlugin/blob/main/myfirstplugin.plugin.js")
+        
     }
 
     
